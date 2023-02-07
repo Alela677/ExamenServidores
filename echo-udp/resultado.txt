@@ -1,0 +1,10 @@
+El resultao del fichero numeros.txt es : 16.523081498988685
+El resultado del fichero numeros.txt es : 16.523081498988685
+El resultado del fichero numeros.txt es : 16.523081498988685
+El resultado del fichero numeros.txt es : 16.523081498988685
+El resultado del fichero numeros.txt es : 16.523081498988685
+El resultado del fichero numeros.txt es : 16.523081498988685
+El resultado del fichero numeros2.txt es : 131.61463106779243
+El resultado del fichero numeros2.txt es : 131.615
+El resultado del fichero numeros2.txt es : 131.6146
+El resultado del fichero numeros2.txt es : 131.6146
